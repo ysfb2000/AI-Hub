@@ -22,4 +22,4 @@ API Management: Abstracted API layers for handling authentication, request forma
 
 Extensibility: Future-ready design allows seamless integration of upcoming AI platforms.
 
-![Alt text](relative/path/to/image.png)
+<img src="Assets/StoreLogo.png" alt="Logo" width="200"/>
