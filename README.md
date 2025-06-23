@@ -22,4 +22,4 @@ API Management: Abstracted API layers for handling authentication, request forma
 
 Extensibility: Future-ready design allows seamless integration of upcoming AI platforms.
 
-<img src="https://github.com/ysfb2000/AI-Hub/blob/master/AITest2/Assets/Wide310x150Logo.scale-200.png" alt="Logo" width="200"/>
+<img src="https://github.com/ysfb2000/AI-Hub/blob/master/AITest2/Assets/AIHub_MainWindow.jpg" alt="Logo" width="200"/>
