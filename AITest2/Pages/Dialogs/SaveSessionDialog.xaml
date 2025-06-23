@@ -1,0 +1,21 @@
+<!-- Copyright (c) Microsoft Corporation and Contributors. -->
+<!-- Licensed under the MIT License. -->
+
+<Page
+    x:Class="AITest2.Pages.Dialogs.SaveSessionDialog"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AITest2.Pages.Dialogs"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+
+
+
+
+    <TextBox x:Name="SessionName" Text="{x:Bind content, Mode=TwoWay}" PlaceholderText="Session Name" Margin="-2,10,10,10" Width="400" />
+
+
+
+</Page>
